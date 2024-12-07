@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100" height="100" src="https://avatars.githubusercontent.com/u/190339082">
   <h2>𐬺 Tinyo Key-Value Store</h2>
-  <h5>High performance.</h5>
+  <h5>Distributed High Performance.</h5>
   <p align="center">
     <a href="https://github.com/pure-linux/tinyo#vision"><b>Why</b></a> •
     <a href="https://github.com/pure-linux/tinyo#quickstart"><b>Quickstart</b></a> •
